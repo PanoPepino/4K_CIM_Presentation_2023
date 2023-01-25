@@ -1,0 +1,553 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "autocreated",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0000.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 4,
+        "sections": [
+            {
+                "id": 1,
+                "name": "The_universe_expands",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0001.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            },
+            {
+                "id": 2,
+                "name": "The_universe_expands_2",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0002.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 1
+            },
+            {
+                "id": 3,
+                "name": "The_universe_expands_3",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0003.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 1
+            },
+            {
+                "id": 4,
+                "name": "The_universe_expands_4",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0004.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.5,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 3,
+        "sections": [
+            {
+                "id": 5,
+                "name": "TOE",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0005.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            },
+            {
+                "id": 6,
+                "name": "TOE_2",
+                "type": "skip",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0006.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 5
+            },
+            {
+                "id": 7,
+                "name": "TOE_3",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0007.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 5.5,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 5,
+        "sections": [
+            {
+                "id": 8,
+                "name": "ST",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0008.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 8
+            },
+            {
+                "id": 9,
+                "name": "ST_3",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0009.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 6.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0009.mp4",
+                "in_project_thumbnail": "thumb_0009.jpg",
+                "in_project_id": 9,
+                "parent_id": 8
+            },
+            {
+                "id": 10,
+                "name": "ST_4",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0010.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0010.mp4",
+                "in_project_thumbnail": "thumb_0010.jpg",
+                "in_project_id": 10,
+                "parent_id": 8
+            },
+            {
+                "id": 11,
+                "name": "ST_5",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0011.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0011.mp4",
+                "in_project_thumbnail": "thumb_0011.jpg",
+                "in_project_id": 11,
+                "parent_id": 8
+            },
+            {
+                "id": 12,
+                "name": "ST_6",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0012.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0012.mp4",
+                "in_project_thumbnail": "thumb_0012.jpg",
+                "in_project_id": 12,
+                "parent_id": 8
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 13,
+                "name": "Can_We",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0013.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0013.mp4",
+                "in_project_thumbnail": "thumb_0013.jpg",
+                "in_project_id": 13,
+                "parent_id": 13
+            },
+            {
+                "id": 14,
+                "name": "Can_We_2",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0014.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0014.mp4",
+                "in_project_thumbnail": "thumb_0014.jpg",
+                "in_project_id": 14,
+                "parent_id": 13
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 15,
+                "name": "Cooking_Time",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0015.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 6.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0015.mp4",
+                "in_project_thumbnail": "thumb_0015.jpg",
+                "in_project_id": 15,
+                "parent_id": 15
+            },
+            {
+                "id": 16,
+                "name": "Cooking_Time_2",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0016.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 12.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0016.mp4",
+                "in_project_thumbnail": "thumb_0016.jpg",
+                "in_project_id": 16,
+                "parent_id": 15
+            }
+        ]
+    },
+    {
+        "sections_len": 7,
+        "sections": [
+            {
+                "id": 17,
+                "name": "Cooking_Time_3",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0017.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0017.mp4",
+                "in_project_thumbnail": "thumb_0017.jpg",
+                "in_project_id": 17,
+                "parent_id": 17
+            },
+            {
+                "id": 18,
+                "name": "Cooking_Time_4",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0018.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 1.5,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0018.mp4",
+                "in_project_thumbnail": "thumb_0018.jpg",
+                "in_project_id": 18,
+                "parent_id": 17
+            },
+            {
+                "id": 19,
+                "name": "Cooking_Time_5",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0019.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0019.mp4",
+                "in_project_thumbnail": "thumb_0019.jpg",
+                "in_project_id": 19,
+                "parent_id": 17
+            },
+            {
+                "id": 20,
+                "name": "Cooking_Time_6",
+                "type": "normal",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0020.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0020.mp4",
+                "in_project_thumbnail": "thumb_0020.jpg",
+                "in_project_id": 20,
+                "parent_id": 17
+            },
+            {
+                "id": 21,
+                "name": "Cooking_Time_7",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0021.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0021.mp4",
+                "in_project_thumbnail": "thumb_0021.jpg",
+                "in_project_id": 21,
+                "parent_id": 17
+            },
+            {
+                "id": 22,
+                "name": "Cooking_Time_8",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0022.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0022.mp4",
+                "in_project_thumbnail": "thumb_0022.jpg",
+                "in_project_id": 22,
+                "parent_id": 17
+            },
+            {
+                "id": 23,
+                "name": "Cooking_Time_9",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0023.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0023.mp4",
+                "in_project_thumbnail": "thumb_0023.jpg",
+                "in_project_id": 23,
+                "parent_id": 17
+            }
+        ]
+    },
+    {
+        "sections_len": 3,
+        "sections": [
+            {
+                "id": 24,
+                "name": "DB_1",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0024.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0024.mp4",
+                "in_project_thumbnail": "thumb_0024.jpg",
+                "in_project_id": 24,
+                "parent_id": 24
+            },
+            {
+                "id": 25,
+                "name": "DB_2",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0025.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0025.mp4",
+                "in_project_thumbnail": "thumb_0025.jpg",
+                "in_project_id": 25,
+                "parent_id": 24
+            },
+            {
+                "id": 26,
+                "name": "DB_3",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0026.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0026.mp4",
+                "in_project_thumbnail": "thumb_0026.jpg",
+                "in_project_id": 26,
+                "parent_id": 24
+            }
+        ]
+    },
+    {
+        "sections_len": 2,
+        "sections": [
+            {
+                "id": 27,
+                "name": "DB_4",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0027.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0027.mp4",
+                "in_project_thumbnail": "thumb_0027.jpg",
+                "in_project_id": 27,
+                "parent_id": 27
+            },
+            {
+                "id": 28,
+                "name": "DB_5",
+                "type": "complete_loop",
+                "is_sub_section": true,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0028.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 5.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0028.mp4",
+                "in_project_thumbnail": "thumb_0028.jpg",
+                "in_project_id": 28,
+                "parent_id": 27
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 29,
+                "name": "Final_Slide",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0029.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0029.mp4",
+                "in_project_thumbnail": "thumb_0029.jpg",
+                "in_project_id": 29,
+                "parent_id": 29
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 30,
+                "name": "Waves",
+                "type": "complete_loop",
+                "is_sub_section": false,
+                "original_video": "/Users/Panizo/Library/Mobile Documents/com~apple~CloudDocs/manim_ce/manim_editor/media/videos/CIM_Presentation/2160p60/sections/CIM_Presentation_0030.mp4",
+                "width": 3840,
+                "height": 2160,
+                "fps": "60",
+                "duration": 7.0,
+                "project_name": "CIM2023_4K",
+                "in_project_video": "video_0030.mp4",
+                "in_project_thumbnail": "thumb_0030.jpg",
+                "in_project_id": 30,
+                "parent_id": 30
+            }
+        ]
+    }
+]
